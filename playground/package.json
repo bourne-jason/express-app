@@ -1,0 +1,15 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[D\u001b[D\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bat-ritra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
+  }
+}
